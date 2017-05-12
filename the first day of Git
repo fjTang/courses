@@ -1,0 +1,5 @@
+scanning the codes to find a error is accessible but is a waste of time, that is why built in tools are needed to compare files;
+windows has FC and Mac and linux has Diff
+Git Bash can complete the exercise
+there is one more thing about using cmd to locate a folder/1. cd 2.cd c:/folder 3. c:/folder>files name
+FC is not a default tool actually, because my computer cannot start up FC
