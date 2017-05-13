@@ -2,11 +2,11 @@
 ## 2017-5-12
 学习了课程Git和Github的使用第一部分的1.1到1.6：
 
-*Windows下比较两个文件指令
+* Windows下比较两个文件指令
 
 FC a.file b.file
 
-*linux\Mac下比较两个文件指令
+* linux\Mac下比较两个文件指令
 
 diff -u a.file b.file
 
