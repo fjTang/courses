@@ -1,0 +1,22 @@
+# 一周总结
+本周完成这些方面的学习：
+* aa
+* bb
+* cc
+## 2017-05-22
+Git、一、1.21-1.23
+
+git clone 克隆
+
+下载Asteroids库：git clone http://github.com/udacity/asteroids.git
+
+颜色：$ git config --global color.ui auto
+
+关于git log与git diff的用法
+
+## 2017-05-23
+## 2017-05-24
+## 2017-05-25
+## 2017-05-26
+## 2017-05-27
+## 2017-05-28
