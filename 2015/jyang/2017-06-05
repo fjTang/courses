@@ -1,0 +1,15 @@
+## 2017-06-05
+## 2017-06-06
+## 2017-06-07
+## 2017-06-08
+well，my ipad typewriting cannot switch to Chinese， so I have to take a note in English <br/>
+During the exam days, I take a little time to learn *R in Action Data Analysis and Grapics with R* <br/>
+*source* can import file into R， more importantly，in windows， if we haven't change work path，R will scan my directory<br/>
+Actually，if I orient the working path，I cannot make it, whether in this way\* source("D:/study/multi/sports.R")\* or <br/>
+source("sports.R") (in the default working directory)<br/>
+another function *with or attach* it can be used for a temporary invoking, exemplify a code<br/>
+with(mtcars,{summary(mpg,disp,wt)<br/>
+plot(mpg,disp)<br/>
+plot(mpg,wt)})<br/>
+})
+## 2017-06-09
